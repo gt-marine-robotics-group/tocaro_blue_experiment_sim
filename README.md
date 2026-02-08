@@ -1,4 +1,4 @@
-# Tocaro Blue Simulation Refactor
+# Tocaro Blue Simulation
 
 This repository simulates BlueBoat trajectories, radar measurements, and a parametric MLE solver for estimating radar bias/variance families. The code is organized so you can swap bias/variance model families and optimizers without editing the solver internals.
 
